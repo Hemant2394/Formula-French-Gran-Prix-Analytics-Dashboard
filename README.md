@@ -59,15 +59,15 @@ README.md
 
 ### Average Pit Stop Duration
 
-![Dashboard 1](Image_1.png)
+![Dashboard 1](Images/Image_1.png)
 
 ### Driver Performance Comparison
 
-![Dashboard 2](Image_2.png)
+![Dashboard 2](Images/Image_2.png)
 
 ### Interactive Dashboard
 
-![Dashboard 3](Image_3.png)
+![Dashboard 3](Images/Image_3.png)
 
 ---
 
